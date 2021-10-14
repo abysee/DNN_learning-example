@@ -18,3 +18,23 @@ Keep epoch number as 15 and tuning batch size from 8 to 64, the result showed si
 
 As the learning rate for this model, it performs quite well when it equals 0.001. As I tuned it to 0.0001 its performance has dramatically declined, so I just left it there.
 
+
+
+epoch = 10, batch size = 32, learning rate  = 0.001![epoch = 10, batch size = 32, learning rate  = 0.001](C:\Users\Nichang\AppData\Roaming\Typora\typora-user-images\image-20211015042810362.png)
+
+epoch = 15, batch size = 8, learning rate  = 0.001![epoch = 15, batch size = 8, learning rate  = 0.001](C:\Users\Nichang\AppData\Roaming\Typora\typora-user-images\image-20211015043002997.png)
+
+epoch = 15, batch size = 16, learning rate = 0.001![epoch = 15, batch size = 16, learning rate = 0.001](C:\Users\Nichang\AppData\Roaming\Typora\typora-user-images\image-20211015043137420.png)
+
+epoch = 15, batch size = 32, learning rate = 0.001![epoch = 15, batch size = 32, learning rate = 0.001](C:\Users\Nichang\AppData\Roaming\Typora\typora-user-images\image-20211015043234364.png)
+
+epoch = 15, batch size = 32, learning rate = 0.0001![epoch = 15, batch size = 32, learning rate = 0.0001](C:\Users\Nichang\AppData\Roaming\Typora\typora-user-images\image-20211015043333617.png)
+
+epoch = 15, batch size = 64, learning rate = 0.001![epoch = 15, batch size = 64, learning rate = 0.001](C:\Users\Nichang\AppData\Roaming\Typora\typora-user-images\image-20211015043433502.png)
+
+epoch = 15, batch size = 128, learning rate = 0.001![epoch = 15, batch size = 128, learning rate = 0.001](C:\Users\Nichang\AppData\Roaming\Typora\typora-user-images\image-20211015043516558.png)
+
+epoch = 20, batch size = 32, learning rate = 0.001![epoch = 20, batch size = 32, learning rate = 0.001](C:\Users\Nichang\AppData\Roaming\Typora\typora-user-images\image-20211015043718224.png)
+
+
+
