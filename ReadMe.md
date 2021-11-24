@@ -20,21 +20,21 @@ As the learning rate for this model, it performs quite well when it equals 0.001
 
 
 
-epoch = 10, batch size = 32, learning rate  = 0.001![epoch = 10, batch size = 32, learning rate  = 0.001](https://github.com/abysee/DNN_learning-example/tree/main/result/ep10ba32lr10-3.png)
+epoch = 10, batch size = 32, learning rate  = 0.001![epoch = 10, batch size = 32, learning rate  = 0.001](https://github.com/abysee/DNN_learning-example/blob/main/result/ep10ba32lr10-3.png)
 
-epoch = 15, batch size = 8, learning rate  = 0.001![epoch = 15, batch size = 8, learning rate  = 0.001](https://github.com/abysee/DNN_learning-example/tree/main/result/ep15ba8lr10-3.png)
+epoch = 15, batch size = 8, learning rate  = 0.001![epoch = 15, batch size = 8, learning rate  = 0.001](https://github.com/abysee/DNN_learning-example/blob/main/result/ep15ba128lr10-3.png)
 
-epoch = 15, batch size = 16, learning rate = 0.001![epoch = 15, batch size = 16, learning rate = 0.001](https://github.com/abysee/DNN_learning-example/tree/main/result/ep15ba16lr10-3.png)
+epoch = 15, batch size = 16, learning rate = 0.001![epoch = 15, batch size = 16, learning rate = 0.001](https://github.com/abysee/DNN_learning-example/blob/main/result/ep15ba16lr10-3.png)
 
-epoch = 15, batch size = 32, learning rate = 0.001![epoch = 15, batch size = 32, learning rate = 0.001](https://github.com/abysee/DNN_learning-example/tree/main/result/ep15ba32lr10-3.png)
+epoch = 15, batch size = 32, learning rate = 0.001![epoch = 15, batch size = 32, learning rate = 0.001](https://github.com/abysee/DNN_learning-example/blob/main/result/ep15ba32lr10-3.png)
 
-epoch = 15, batch size = 32, learning rate = 0.0001![epoch = 15, batch size = 32, learning rate = 0.0001](https://github.com/abysee/DNN_learning-example/tree/main/result/ep15ba32lr10-4.png)
+epoch = 15, batch size = 32, learning rate = 0.0001![epoch = 15, batch size = 32, learning rate = 0.0001](https://github.com/abysee/DNN_learning-example/blob/main/result/ep15ba32lr10-4.png)
 
-epoch = 15, batch size = 64, learning rate = 0.001![epoch = 15, batch size = 64, learning rate = 0.001](https://github.com/abysee/DNN_learning-example/tree/main/result/ep15ba64lr10-3.png)
+epoch = 15, batch size = 64, learning rate = 0.001![epoch = 15, batch size = 64, learning rate = 0.001](https://github.com/abysee/DNN_learning-example/blob/main/result/ep15ba64lr10-3.png)
 
-epoch = 15, batch size = 128, learning rate = 0.001![epoch = 15, batch size = 128, learning rate = 0.001](https://github.com/abysee/DNN_learning-example/tree/main/result/ep15ba128lr10-3.png)
+epoch = 15, batch size = 128, learning rate = 0.001![epoch = 15, batch size = 128, learning rate = 0.001](https://github.com/abysee/DNN_learning-example/blob/main/result/ep15ba8lr10-3.png)
 
-epoch = 20, batch size = 32, learning rate = 0.001![epoch = 20, batch size = 32, learning rate = 0.001](https://github.com/abysee/DNN_learning-example/tree/main/result/ep20ba32lr10-3.png)
+epoch = 20, batch size = 32, learning rate = 0.001![epoch = 20, batch size = 32, learning rate = 0.001](https://github.com/abysee/DNN_learning-example/blob/main/result/ep20ba32lr10-3.png)
 
 
 
